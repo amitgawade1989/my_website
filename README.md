@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I am a **Data Scientist** at **LTIMindtree**, specializing in **Generative AI**, **Natural Language Processing (NLP)**, and **Machine Learning**. With a deep understanding of AI technologies and hands-on experience in building intelligent systems, I help businesses and individuals unlock the power of data to drive innovation and growth.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-gawade/) to learn more about my professional journey.
+Read my blogs here [medium](https://medium.com/@amit.gawade1289)
 
 ## 🧑‍💻 About Me
 I am currently pursuing my **M.Tech in Computer Science Engineering (CSE)**, with a keen interest in **Generative AI**, **NLP**, and **Machine Learning**. I also hold multiple certifications in Azure, Google Cloud, and AI, which enhance my ability to deliver cutting-edge solutions in AI and data science.
