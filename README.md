@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a **Data Scientist** at **LTIMindtree**, spec
 ## 🧑‍💻 About Me
 I am currently pursuing my **M.Tech in Computer Science Engineering (CSE)**, with a keen interest in **Generative AI**, **NLP**, and **Machine Learning**. I also hold multiple certifications in Azure, Google Cloud, and AI, which enhance my ability to deliver cutting-edge solutions in AI and data science.
 
-I work as a **Consultant** at **LTIMindtree**, where I apply my expertise to solve complex problems using machine learning, deep learning, and cloud-based AI solutions.
+I work as a **Consultant** at **LTIMindtree**, where I apply my expertise to solve complex problems using machine learning, deep learning, and cloud-based AI solutions. I also serve as a **Visiting Lecturer at NMIMS**, sharing my knowledge and passion for AI with students.
 
 In addition to my work, I am passionate about mentoring students and professionals in **hackathons**, helping them grow their skills and succeed in AI and data science competitions.
 
@@ -72,7 +72,8 @@ In addition to my work, I am passionate about mentoring students and professiona
 
 ## 📬 Let's Connect!
 
-- Feel free to [email me](mailto:your-email@example.com) for consultations, course inquiries, or to discuss potential collaborations.
+- Feel free to [email me](mailto:amitgawade2024@gmail.com) for consultations, course inquiries, or to discuss potential collaborations.
+- Reach me at **+91 7039253242** for direct inquiries.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-gawade/).
 - Follow my projects and tutorials on GitHub, where I share code, tutorials, and AI solutions.
 
